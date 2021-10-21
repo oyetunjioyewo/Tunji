@@ -1,0 +1,4 @@
+#!/bin/bash
+#This  is to know how are you doing
+echo "How are you today and are really enjoying IT class?"
+echo "Good and YES"
